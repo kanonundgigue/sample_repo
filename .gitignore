@@ -1,0 +1,11 @@
+# suffix
+*.npz
+*.nc
+*.log
+
+# logfiles
+nohup.out
+.ipynb_checkpoints
+.DS_Store
+~*
+*~
